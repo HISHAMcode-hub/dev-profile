@@ -5,7 +5,7 @@ Deployed on GitHub Pages.
 
 ## Live URL
 
-https://muhammed-hisham.github.io/dev-profile
+https://github.com/HISHAMcode-hub/dev-profile
 
 ## About
 
